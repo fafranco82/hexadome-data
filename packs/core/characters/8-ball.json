@@ -1,0 +1,11 @@
+{
+	"id": "8-ball",
+	"name": "8-Ball",
+	"initiative": 4,
+	"speed": 4,
+	"energy": 5,
+	"health": 5,
+	"defense": ["green", "blue"],
+	"brawl": ["blue", "blue"],
+	"agility": ["orange", "orange"]
+}

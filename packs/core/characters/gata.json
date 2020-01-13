@@ -1,0 +1,11 @@
+{
+	"id": "gata",
+	"name": "Gata",
+	"initiative": 7,
+	"speed": 5,
+	"energy": 5,
+	"health": 2,
+	"defense": ["blue", "black"],
+	"brawl": ["yellow"],
+	"agility": ["red", "orange"]
+}

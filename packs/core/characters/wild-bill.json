@@ -1,0 +1,11 @@
+{
+	"id": "wild-bill",
+	"name": "Wild Bill",
+	"initiative": 6,
+	"speed": 4,
+	"energy": 5,
+	"health": 4,
+	"defense": ["green", "blue"],
+	"brawl": ["blue"],
+	"agility": ["orange"]
+}

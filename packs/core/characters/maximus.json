@@ -1,0 +1,11 @@
+{
+	"id": "maximus",
+	"name": "Maximus",
+	"initiative": 4,
+	"speed": 3,
+	"energy": 5,
+	"health": 7,
+	"defense": ["green", "blue", "block", "special", "special"],
+	"brawl": ["green", "blue"],
+	"agility": ["criticalSuccess"]
+}

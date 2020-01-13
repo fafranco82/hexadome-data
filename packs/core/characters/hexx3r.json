@@ -1,0 +1,11 @@
+{
+	"id": "hexx3r",
+	"name": "hEXx3r",
+	"initiative": 5,
+	"speed": 4,
+	"energy": 5,
+	"health": 3,
+	"defense": ["blue", "yellow"],
+	"brawl": ["blue", "yellow"],
+	"agility": ["yellow", "yellow"]
+}

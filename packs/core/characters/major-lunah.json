@@ -1,0 +1,11 @@
+{
+	"id": "major-lunah",
+	"name": "Major Lunah",
+	"initiative": 5,
+	"speed": 4,
+	"energy": 5,
+	"health": 3,
+	"defense": ["green", "blue"],
+	"brawl": ["yellow"],
+	"agility": ["orange"]
+}

@@ -1,0 +1,11 @@
+{
+	"id": "parvati",
+	"name": "Parvati",
+	"initiative": 4,
+	"speed": 5,
+	"energy": 5,
+	"health": 3,
+	"defense": ["green", "blue"],
+	"brawl": ["blue"],
+	"agility": ["orange"]
+}

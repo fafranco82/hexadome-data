@@ -1,0 +1,11 @@
+{
+	"id": "miyamoto-mushashi",
+	"name": "Miyamoto Mushashi",
+	"initiative": 6,
+	"speed": 5,
+	"energy": 5,
+	"health": 4,
+	"defense": ["green", "blue"],
+	"brawl": ["blue", "orange"],
+	"agility": ["orange", "yellow"]
+}
